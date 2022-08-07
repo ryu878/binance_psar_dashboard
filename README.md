@@ -1,4 +1,4 @@
-# Parabolic SAR multi timeframe Dashboard
+# Parabolic SAR multi timeframe Dashboard for Binance Futures
 To start trading on Binance Futures and earn rebates register here: https://www.binance.com/en/futures/ref/421719790
 
 ## Disclaimer
