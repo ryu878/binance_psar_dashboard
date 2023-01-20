@@ -3,7 +3,11 @@ To start trading on Binance Futures and earn rebates register here: https://www.
 
 ![image](https://user-images.githubusercontent.com/81808867/198849608-ca2d8a9c-864d-4afa-97a2-3dac08601fe3.png)
 
+## Requirements
 
+<code>pip install python-binance</code>
+
+<code>pip install pandas</code>
 
 ## Disclaimer
 <hr>
