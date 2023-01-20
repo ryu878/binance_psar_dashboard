@@ -1,6 +1,6 @@
 # Binance API keys
-key = 'CaZjoABwbGcniQkQbAhjFBUAxs552vhbujC5o5HNBFEKbzdsKe1HEHm3sXUkEnDs'
-secret = 'XQjeZzytmaAfDNELzZsy9EUno20i4eAtsajhNV2TI6tdUSuFFyOntOmYTjjDIkuT'
+key = ''
+secret = ''
 
 # Assets
 asset1 = 'BTCUSDT'
